@@ -1,0 +1,10 @@
+*{
+	margin:0px;
+	padding:0px;
+}
+
+.item:hover{
+	color:red;
+	transform:scale(1.1);
+}
+
